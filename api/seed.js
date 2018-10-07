@@ -1361,7 +1361,7 @@ var seeding_postgres = function(res) {
 };
 
 var insert_admin = [
-    ['Duy', '1512069', 'nhom25@fit.hcmus.edu.vn', '01694790196', bcrypt.hashSync('vietnam', 10), 4], //1
+    ['Park Hang', 'Seo', 'parkhangseo@fit.hcmus.edu.vn', '01228718705', bcrypt.hashSync('korea', 10), 4], //1
 ];
 var seeding_admin = function(res) {
     pool_postgres.connect(function(error, connection, done) {
