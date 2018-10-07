@@ -9,10 +9,10 @@ module.exports = {
     },
     db_postgres: {
         host: 'ec2-54-243-147-162.compute-1.amazonaws.com',
-        user: 'pkxeddoamwtoiv',
-        password: 'c00af1e47b2fa66038f8f9a4ac63861be89fe4e91cabd698bec8761e7dde740f',
+        user: 'unqzfgcuwawhoa',
+        password: '094d890cd5e082de56e58685f872feb69695aa15253fecd9f82193ddfd34acd8',
         port:'5432',
-        database: 'd3dcto2i582fvi'
+        database: 'de8vo6ro498vj'
     },
     //db_postgres: {
     //    host: 'localhost',
